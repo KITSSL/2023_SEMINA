@@ -20,5 +20,5 @@
 | 13 |2023-03-20|Reversing Basic|이근탁|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/3%EC%9B%94/%EB%A6%AC%EB%B2%84%EC%8B%B11.pptx)|
 | 14 |2023-03-27|Django|마재성|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/3%EC%9B%94/Django.pptx)|
 | 15 |2023-04-03|Spring 2(토이프로젝트)|박준수|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/4%EC%9B%94/20230403_Spring_pt2.pdf)|
-
+| 16 |2023-04-18|Coding Test|김혜진|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/4%EC%9B%94/230417_Coding%20Test.pdf)
 
