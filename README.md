@@ -24,3 +24,4 @@
 | 17 |2023-04-03|Unreal FPS|김원렬|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/4%EC%9B%94/2023_04_03%20UnrealFPS.pptx)|
 | 18 |2023-04-18|Coding Test|김혜진|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/4%EC%9B%94/230417_Coding%20Test.pdf)
 | 19 |2023-04-18|SSTI|이근탁|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/4%EC%9B%94/SSTI.pptx)
+| 20 |2023-05-08|Django pt2|마재성|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/5%EC%9B%94/Django_pt2.pptx)|
