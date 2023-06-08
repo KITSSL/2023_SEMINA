@@ -26,3 +26,6 @@
 | 19 |2023-04-18|SSTI|이근탁|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/4%EC%9B%94/SSTI.pptx)
 | 20 |2023-05-08|Django pt2|마재성|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/5%EC%9B%94/Django_pt2.pptx)|
 | 21 |2023-05-15|개인프로젝트: 토이프로젝트 멤버 모집 사이트|박준수|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/5%EC%9B%94/%E1%84%89%E1%85%A6%E1%84%86%E1%85%B5%E1%84%82%E1%85%A120230515.pdf)|
+| 22 |2023-06-05|Webkit640 2기 회고|박준수|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/6%EC%9B%94/202306%E1%84%92%E1%85%AC%E1%84%80%E1%85%A9.pdf)|
+
+
