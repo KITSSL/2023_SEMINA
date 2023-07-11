@@ -29,4 +29,4 @@
 | 22 |2023-06-05|Webkit640 2기 회고|박준수|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/6%EC%9B%94/202306%E1%84%92%E1%85%AC%E1%84%80%E1%85%A9.pdf)|
 | 23 |2023-06-05|cce 포렌식 |이근탁|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/6%EC%9B%94/apollo.pptx)|
 | 24 |2023-07-05|동영상 스트리밍 서버 구현기 |김온지|[link](./7%EC%9B%94/230705_%EB%8F%99%EC%98%81%EC%83%81%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%ED%98%84%EA%B8%B0.pdf)|
-
+| 25 |2023-07-05|SSL에서 보안으로 살아남기(1) |강혜인|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/7%EC%9B%94/SSL%EC%97%90%EC%84%9C%20%EB%B3%B4%EC%95%88%EC%9C%BC%EB%A1%9C%20%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0(1).pptx)|
