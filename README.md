@@ -30,8 +30,12 @@
 | 23 |2023-06-05|cce 포렌식 |이근탁|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/6%EC%9B%94/apollo.pptx)|
 | 24 |2023-07-05|동영상 스트리밍 서버 구현기 |김온지|[link](./7%EC%9B%94/230705_%EB%8F%99%EC%98%81%EC%83%81%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%ED%98%84%EA%B8%B0.pdf)|
 | 25 |2023-07-05|SSL에서 보안으로 살아남기(1) |강혜인|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/7%EC%9B%94/SSL%EC%97%90%EC%84%9C%20%EB%B3%B4%EC%95%88%EC%9C%BC%EB%A1%9C%20%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0(1).pptx)|
-| 26 |2023-07-27| - | - |[link]|
+| 26 |2023-07-27| 멋사 전반기 활동후기 |마재성|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/7%EC%9B%94/%ED%99%9C%EB%8F%99%ED%9B%84%EA%B8%B0.pptx)|
 | 27 |2023-07-27| - | - |[link]|
 | 28 |2023-07-27|교육청 자가진단 자동화 프로젝트|윤태영|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/7%EC%9B%94/%EA%B5%90%EC%9C%A1%EC%B2%AD%20%EC%9E%90%EA%B0%80%EC%A7%84%EB%8B%A8%20%EC%9E%90%EB%8F%99%ED%99%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
 | 29 |2023-08-02| - | - |[link]|
 | 30 |2023-08-02| - | - |[link]|
+| 31 |2023-08-09| - | - |[link]|
+| 32 |2023-08-09| styled-components |마재성|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/8%EC%9B%94/Styled_components.pptx)|
+| 33 |2023-08-16| - | - |[link]|
+| 34 |2023-08-16| - | - |[link]|
