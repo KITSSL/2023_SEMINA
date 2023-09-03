@@ -37,5 +37,7 @@
 | 30 |2023-08-02| - | - |[link]|
 | 31 |2023-08-09| - | - |[link]|
 | 32 |2023-08-09| styled-components |마재성|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/8%EC%9B%94/Styled_components.pptx)|
-| 33 |2023-08-16| - | - |[link]|
+| 33 |2023-08-16| Java Virtual Thread에 주목하라 | 김온지 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/8%EC%9B%94/%E1%84%89%E1%85%A6%E1%84%86%E1%85%B5%E1%84%82%E1%85%A1%20-%20%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%8A%E1%85%B3%E1%84%85%E1%85%A6%E1%84%83%E1%85%B3.pdf)|
 | 34 |2023-08-16| - | - |[link]|
+| 35 |2023-08-31| 여행서비스 아키텍처 설계 | 김온지 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/8%EC%9B%94/%E1%84%8B%E1%85%A7%E1%84%92%E1%85%A2%E1%86%BC%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A7%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8.pdf)|
+| 36 |2023-08-31| - | - |[link]|
