@@ -35,9 +35,11 @@
 | 28 |2023-07-27|교육청 자가진단 자동화 프로젝트|윤태영|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/7%EC%9B%94/%EA%B5%90%EC%9C%A1%EC%B2%AD%20%EC%9E%90%EA%B0%80%EC%A7%84%EB%8B%A8%20%EC%9E%90%EB%8F%99%ED%99%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
 | 29 |2023-08-02| - | - |[link]|
 | 30 |2023-08-02| - | - |[link]|
-| 31 |2023-08-09| - | - |[link]|
-| 32 |2023-08-09| styled-components |마재성|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/8%EC%9B%94/Styled_components.pptx)|
+| 31 |2023-08-09| styled-components |마재성|[link](https://github.com/KITSSL/2023_SEMINA/blob/main/8%EC%9B%94/Styled_components.pptx)|
+| 32 |2023-08-09| 최강의 매크로 프로그램 만들기 프로젝트 | 윤태영 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/8%EC%9B%94/%EC%B5%9C%EA%B0%95%EC%9D%98%20%EB%A7%A4%ED%81%AC%EB%A1%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)|
 | 33 |2023-08-16| Java Virtual Thread에 주목하라 | 김온지 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/8%EC%9B%94/%E1%84%89%E1%85%A6%E1%84%86%E1%85%B5%E1%84%82%E1%85%A1%20-%20%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%8A%E1%85%B3%E1%84%85%E1%85%A6%E1%84%83%E1%85%B3.pdf)|
 | 34 |2023-08-16| - | - |[link]|
 | 35 |2023-08-31| 여행서비스 아키텍처 설계 | 김온지 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/8%EC%9B%94/%E1%84%8B%E1%85%A7%E1%84%92%E1%85%A2%E1%86%BC%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A7%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8.pdf)|
 | 36 |2023-08-31| SSL에서 보안으로 살아남기 - 번외편 | 강혜인 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/8%EC%9B%94/SSL%EC%97%90%EC%84%9C%20%EB%B3%B4%EC%95%88%EC%9C%BC%EB%A1%9C%20%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0%20-%20%EB%B2%88%EC%99%B8%ED%8E%B8.pptx)|
+| 37 |2023-09-04| - | - |[link]|
+| 38 |2023-09-04| 에브리타임 클리너 프로젝트 上 | 윤태영 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/9%EC%9B%94/%EC%97%90%EB%B8%8C%EB%A6%AC%ED%83%80%EC%9E%84%20%ED%81%B4%EB%A6%AC%EB%84%88%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%E4%B8%8A.pdf)|
