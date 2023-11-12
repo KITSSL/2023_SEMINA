@@ -45,4 +45,6 @@
 | 38 |2023-09-04| 멋쟁이사자처럼 중앙 해커톤 후기 | 마재성 |[link](https://github.com/KITSSL/2023_SEMINA/commit/a4f375a592ecd7869bb87dc96880b6ed12de312f)|
 | 39 |2023-09-04| 에브리타임 클리너 프로젝트 上 | 윤태영 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/9%EC%9B%94/%EC%97%90%EB%B8%8C%EB%A6%AC%ED%83%80%EC%9E%84%20%ED%81%B4%EB%A6%AC%EB%84%88%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%E4%B8%8A.pdf)|
 | 40 |2023-09-25| Modular Monolith Architecture | 김온지 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/9%EC%9B%94/Modular%20Monolith%20Architecture.pdf)|
-
+| 41 |2023-11-06|   | 강혜인 | [link]
+| 42 |2023-11-06| System Design Interview | 박준수 | [link](https://github.com/KITSSL/2023_SEMINA/blob/d4a18100b8f580a8a38389318bdaecc68b2a047e/11%EC%9B%94/System_Design_Interview.pdf)
+| 43 |2023-11-06| 여행지 근사 최적 경로 알고리즘 | 김온지 |[link](https://github.com/KITSSL/2023_SEMINA/blob/941636ec9a4a54972bad8971875fcfc094499baa/11%EC%9B%94/%E1%84%8B%E1%85%A7%E1%84%92%E1%85%A2%E1%86%BC%E1%84%8C%E1%85%B5%20%E1%84%80%E1%85%B3%E1%86%AB%E1%84%89%E1%85%A1%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A5%E1%86%A8%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A9%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%20%E1%84%83%E1%85%A6%E1%84%86%E1%85%A9.pdf)
