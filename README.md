@@ -48,6 +48,6 @@
 | 41 |2023-11-06| SSL에서 보안으로 살아남기(3) | 강혜인 | [link](https://github.com/KITSSL/2023_SEMINA/commit/c377e3cdbbf0a68f00eece4aab9abadba6863b48)|
 | 42 |2023-11-06| System Design Interview | 박준수 | [link](https://github.com/KITSSL/2023_SEMINA/blob/d4a18100b8f580a8a38389318bdaecc68b2a047e/11%EC%9B%94/System_Design_Interview.pdf)
 | 43 |2023-11-06| 여행지 근사 최적 경로 알고리즘 | 김온지 |[link](https://github.com/KITSSL/2023_SEMINA/blob/941636ec9a4a54972bad8971875fcfc094499baa/11%EC%9B%94/%E1%84%8B%E1%85%A7%E1%84%92%E1%85%A2%E1%86%BC%E1%84%8C%E1%85%B5%20%E1%84%80%E1%85%B3%E1%86%AB%E1%84%89%E1%85%A1%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A5%E1%86%A8%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A9%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%20%E1%84%83%E1%85%A6%E1%84%86%E1%85%A9.pdf)
-| 44 |2023-11-13|   | 김온지 |[link]
+| 44 |2023-11-13|   | 김온지 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/11%EC%9B%94/Cyper%20Query%20Language.pdf)
 | 45 |2023-11-13|   | 마재성 |[link]
 | 46 |2023-11-13| 연구실 안전교육 자동화 프로젝트 | 윤태영 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/11%EC%9B%94/%EC%97%B0%EA%B5%AC%EC%8B%A4%20%EC%95%88%EC%A0%84%EA%B5%90%EC%9C%A1%20%EC%9E%90%EB%8F%99%ED%99%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
