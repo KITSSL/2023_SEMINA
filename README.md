@@ -51,3 +51,4 @@
 | 44 |2023-11-13| Cyper Query Language | 김온지 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/11%EC%9B%94/Cyper%20Query%20Language.pdf)
 | 45 |2023-11-13| React-Hooks(1)  | 마재성 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/11%EC%9B%94/React-Hooks.pptx)
 | 46 |2023-11-13| 연구실 안전교육 자동화 프로젝트 | 윤태영 |[link](https://github.com/KITSSL/2023_SEMINA/blob/main/11%EC%9B%94/%EC%97%B0%EA%B5%AC%EC%8B%A4%20%EC%95%88%EC%A0%84%EA%B5%90%EC%9C%A1%20%EC%9E%90%EB%8F%99%ED%99%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
+| 47 |2023-11-27| SSL에서 보안으로 살아남기(4) | 강혜인 | [link](https://github.com/KITSSL/2023_SEMINA/blob/main/11%EC%9B%94/SSL%EC%97%90%EC%84%9C%20%EB%B3%B4%EC%95%88%EC%9C%BC%EB%A1%9C%20%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0(4).pptx)
